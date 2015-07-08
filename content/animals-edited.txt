@@ -9,7 +9,7 @@ African darter
 African elephant
 African fish eagle
 African ground squirrel
-hilornis africanus
+Hilornis africanus
 African lion
 African lynx
 African pied wagtail
@@ -99,24 +99,24 @@ Sloth Bear
 Beaver
 Bee-eater
 Carmine Bee-eater
-nubian Bee-eater
-white-fronted Bee-eater
+Nubian Bee-eater
+White-fronted Bee-eater
 Beisa oryx
 Bengal vulture
 Bennett's wallaby
 Bent-toed gecko
-brush-tailed Bettong
+Brush-tailed Bettong
 Bird
-bare-faced go away Bird
-black-throated butcher Bird
-magnificent frigate Bird
-pied butcher Bird
-red-billed tropic Bird
-secretary Bird
-american Bison
+Bare-faced go away Bird
+Black-throated butcher Bird
+Magnificent frigate Bird
+Pied butcher Bird
+Red-billed tropic Bird
+Secretary Bird
+American Bison
 Black and white colobus
 Black bear
-us ater
+Us ater
 Black kite
 Black rhinoceros
 Black spider monkey
@@ -140,15 +140,15 @@ Black-tailed prairie dog
 Black-tailed tree creeper
 Black-throated butcher bird
 Black-throated cardinal
-us
-red-winged Blackbird
+Us
+Red-winged Blackbird
 Blackbuck
-us ater
+Us ater
 Blacksmith plover
 Bleeding heart monkey
 Blesbok
-blue-breasted cordon Bleu
-red-cheeked cordon Bleu
+Blue-breasted cordon Bleu
+Red-cheeked cordon Bleu
 Blue and gold macaw
 Blue and yellow macaw
 Blue catfish
@@ -165,27 +165,27 @@ Blue-faced booby
 Blue-footed booby
 Blue-tongued lizard
 Blue-tongued skink
-columbian rainbow Boa
-cook Boa's tree
-emerald green tree Boa
-his madagascariensis
-mexican Boa
-wild Boar
+Columbian rainbow Boa
+Cook Boa's tree
+Emerald green tree Boa
+His madagascariensis
+Mexican Boa
+Wild Boar
 Boat-billed heron
 Bobcat
 Bohor reedbuck
 Bonnet macaque
 Bontebok
-blue-faced Booby
-blue-footed Booby
-masked Booby
+Blue-faced Booby
+Blue-footed Booby
+Masked Booby
 Bottle-nose dolphin
-southern Boubou
+Southern Boubou
 Brazilian otter
 Brazilian tapir
 Brindled gnu
-brown Brocket
-red Brocket
+Brown Brocket
+Red Brocket
 Brolga crane
 Brown and yellow marshbird
 Brown antechinus
@@ -197,33 +197,32 @@ Brown pelican
 Brush-tailed bettong
 Brush-tailed phascogale
 Brush-tailed rat kangaroo
-african Buffalo
-american Buffalo
-asian water Buffalo
-wild water Buffalo
-african red-eyed Bulbul
-black-eyed Bulbul
-black-fronted Bulbul
-crested Bunting
+African Buffalo
+Buffalo
+Asian Water Buffalo
+Wild Water Buffalo
+African red-eyed Bulbul
+Black-eyed Bulbul
+Black-fronted Bulbul
+Crested Bunting
 Burchell's gonolek
 Burmese black mountain tortoise
 Burmese brown mountain tortoise
 Burrowing owl
 Bush dog
-large-eared Bushbaby
+Large-eared Bushbaby
 Bushbuck
 Bushpig
-denham Bustard's
-kori Bustard
-stanley Bustard
+Denham Bustard's
+Kori Bustard
+Stanley Bustard
 Butterfly
-canadian tiger swallowtail Butterfly
-tropical buckeye Butterfly
+Canadian tiger swallowtail Butterfly
+Tropical buckeye Butterfly
 Buttermilk snake
-
-spectacled Caiman
+Spectacled Caiman
 California sea lion
-dromedary Camel
+Dromedary Camel
 Campo flicker
 Canada goose
 Canadian river otter
@@ -236,69 +235,69 @@ Cape raven
 Cape starling
 Cape white-eye
 Cape wild cat
-black-capped Capuchin
-brown Capuchin
-weeper Capuchin
-white-fronted Capuchin
+Black-capped Capuchin
+Brown Capuchin
+Weeper Capuchin
+White-fronted Capuchin
 Capybara
 Caracal
 Caracara
-yellow-headed Caracara
-black-throated Cardinal
-red-capped Cardinal
+Yellow-headed Caracara
+Black-throated Cardinal
+Red-capped Cardinal
 Caribou
 Carmine bee-eater
 Carpet python
 Carpet snake
-african wild Cat
-cape wild Cat
-civet Cat
-european wild Cat
-jungle Cat
-kaffir Cat
-long-tailed spotted Cat
-miner Cat's
-native Cat
-ringtail Cat
-tiger Cat
-toddy Cat
-blue Catfish
+African wild Cat
+Cape wild Cat
+Civet Cat
+European wild Cat
+Jungle Cat
+Kaffir Cat
+Long-tailed spotted Cat
+Miner Cat's
+Native Cat
+Ringtail Cat
+Tiger Cat
+Toddy Cat
+Blue Catfish
 Cattle egret
 Cereopsis goose
 Chacma baboon
 Chameleon
 Cheetah
 Chestnut weaver
-black-capped Chickadee
+Black-capped Chickadee
 Chilean flamingo
 Chimpanzee
-least Chipmunk
+Least Chipmunk
 Chital
 Chuckwalla
 Civet
 Civet cat
-common palm Civet
-small-toothed palm Civet
+Common palm Civet
+Small-toothed palm Civet
 Clark's nutcracker
-mocking Cliffchat
-ring-tailed Coatimundi
-white-nosed Coatimundi
+Mocking Cliffchat
+Ring-tailed Coatimundi
+White-nosed Coatimundi
 Cobra
-cape Cobra
-egyptian Cobra
-long-billed Cockatoo
-red-breasted Cockatoo
-red-tailed Cockatoo
-roseate Cockatoo
-slender-billed Cockatoo
-sulfur-crested Cockatoo
+Cape Cobra
+Egyptian Cobra
+Long-billed Cockatoo
+Red-breasted Cockatoo
+Red-tailed Cockatoo
+Roseate Cockatoo
+Slender-billed Cockatoo
+Sulfur-crested Cockatoo
 Coke's hartebeest
 Collared lemming
 Collared lizard
 Collared peccary
-black and white Colobus
-magistrate black Colobus
-white-mantled Colobus
+Black and white Colobus
+Magistrate black Colobus
+White-mantled Colobus
 Columbian rainbow boa
 Comb duck
 Common boubou shrike
@@ -329,125 +328,122 @@ Common wolf
 Common wombat
 Common zebra
 Common zorro
-his madagascariensis
+His madagascariensis
 Cook's tree boa
-red-knobbed Coot
+Red-knobbed Coot
 Coqui francolin
 Coqui partridge
-long-billed Corella
+Long-billed Corella
 Cormorant
-flightless Cormorant
-great Cormorant
-javanese Cormorant
-king Cormorant
-large Cormorant
-little Cormorant
-neotropic Cormorant
-pied Cormorant
+Flightless Cormorant
+Great Cormorant
+Javanese Cormorant
+King Cormorant
+Large Cormorant
+Little Cormorant
+Neotropic Cormorant
+Pied Cormorant
 Cottonmouth
 Cougar
-scottish highland Cow
+Scottish highland Cow
 Coyote
 Crab
-red lava Crab
-sally lightfoot Crab
+Red lava Crab
+Sally lightfoot Crab
 Crab-eating fox
 Crab-eating raccoon
-african black Crake
-black-crowned Crane
-blue Crane
-brolga Crane
-sandhill Crane
-sarus Crane
-stanley Crane
-wattled Crane
-black-tailed tree Creeper
+African black Crake
+Black-crowned Crane
+Blue Crane
+Brolga Crane
+Sandhill Crane
+Sarus Crane
+Stanley Crane
+Wattled Crane
+Black-tailed tree Creeper
 Crested barbet
 Crested bunting
 Crested porcupine
 Crested screamer
 Crimson-breasted shrike
-nile Crocodile
-american Crow
-house Crow
-pied Crow
+Nile Crocodile
+American Crow
+House Crow
+Pied Crow
 Crown of thorns starfish
 Crowned eagle
 Crowned hawk-eagle
 Cuis
-us ater
+Us Ater
 Currasow
 Curve-billed thrasher
-
 Dabchick
 Dama wallaby
 Dark-winged trumpeter
-african Darter
+African Darter
 Darwin ground finch
 Dassie
-barasingha Deer
-black-tailed Deer
-mule Deer
-red Deer
-roe Deer
-savannah Deer
-spotted Deer
-swamp Deer
-white-tailed Deer
+Barasingha Deer
+Black-tailed Deer
+Mule Deer
+Red Deer
+Roe Deer
+Savannah Deer
+Spotted Deer
+Swamp Deer
+White-tailed Deer
 Defassa waterbuck
 Denham's bustard
 Desert kangaroo rat
 Desert spiny lizard
 Desert tortoise
-tasmanian Devil
-kirk Dik's dik
+Tasmanian Devil
+Kirk Dik's dik
 Dingo
-african wild Dog
-black-tailed prairie Dog
-bush Dog
-raccoon Dog
-bottle-nose Dolphin
-common Dolphin
-striped Dolphin
-emerald-spotted wood Dove
-galapagos Dove
-elia senegalensis
-elia senegalensis
-elia decipiens
-ring Dove
-rock Dove
-white-winged Dove
+African wild Dog
+Black-tailed prairie Dog
+Bush Dog
+Raccoon Dog
+Bottle-nose Dolphin
+Common Dolphin
+Striped Dolphin
+Emerald-spotted wood Dove
+Galapagos Dove
+Elia senegalensis
+Elia decipiens
+Ring Dove
+Rock Dove
+White-winged Dove
 Downy woodpecker
-asian water Dragon
-frilled Dragon
-komodo Dragon
-netted rock Dragon
-ornate rock Dragon
-western bearded Dragon
-russian Dragonfly
+Asian Water Dragon
+Frilled Dragon
+Komodo Dragon
+Netted rock Dragon
+Ornate rock Dragon
+Western bearded Dragon
+Russian Dragonfly
 Dromedary camel
-fork-tailed Drongo
-blue Duck
-comb Duck
-mountain Duck
-white-faced whistling Duck
-common Duiker
-gray Duiker
-fat-tailed Dunnart
+Fork-tailed Drongo
+Blue Duck
+Comb Duck
+Mountain Duck
+White-faced whistling Duck
+Common Duiker
+Gray Duiker
+Fat-tailed Dunnart
 Dusky gull
 Dusky rattlesnake
-
 Eagle owl
-african fish Eagle
-bald Eagle
-bateleur Eagle
-crowned Eagle
-golden Eagle
-long-crested hawk Eagle
-pallas Eagle's fish
-tawny Eagle
-white-bellied sea Eagle
-his madagascariensis
+African fish Eagle
+Bald Eagle
+Bateleur Eagle
+Crowned Eagle
+Golden Eagle
+Long-crested hawk Eagle
+Pallas Eagle's fish
+Tawny Eagle
+White-bellied sea Eagle
+His madagascariensis
 Eastern box turtle
 Eastern cottontail rabbit
 Eastern diamondback rattlesnake
@@ -457,18 +453,18 @@ Eastern grey kangaroo
 Eastern indigo snake
 Eastern quoll
 Eastern white pelican
-short-beaked Echidna
-cattle Egret
-great Egret
-snowy Egret
+Short-beaked Echidna
+Cattle Egret
+Great Egret
+Snowy Egret
 Egyptian cobra
 Egyptian goose
 Egyptian viper
 Egyptian vulture
-common Eland
+Common Eland
 Elegant crested tinamou
-african Elephant
-asian Elephant
+African Elephant
+Asian Elephant
 Eleven-banded armadillo
 Elk,Cervus canadensis
 Emerald green tree boa
@@ -486,51 +482,49 @@ European shelduck
 European spoonbill
 European stork
 European wild cat
-
 Fairy penguin
-peregrine Falcon
-prairie Falcon
+Peregrine Falcon
+Prairie Falcon
 Fat-tailed dunnart
 Feathertail glider
 Feral rock pigeon
-black-footed Ferret
+Black-footed Ferret
 Ferruginous hawk
 Field flicker
-common melba Finch
+Common melba Finch
 Fisher
-chilean Flamingo
-greater Flamingo
-lesser Flamingo
-roseat Flamingo
-campo Flicker
-field Flicker
+Chilean Flamingo
+Greater Flamingo
+Lesser Flamingo
+Roseat Flamingo
+Campo Flicker
+Field Flicker
 Flightless cormorant
-tyrant Flycatcher
+Tyrant Flycatcher
 Flying fox
 Fork-tailed drongo
 Four-horned antelope
 Four-spotted skimmer
 Four-striped grass mouse
-helmeted guinea Fowl
-arctic Fox
-asian red Fox
-bat-eared Fox
-blue Fox
-cape Fox
-crab-eating Fox
-grey Fox
-north american red Fox
-pampa gray Fox
-savanna Fox
-silver-backed Fox
-coqui Francolin
-swainson Francolin's
+Helmeted guinea Fowl
+Arctic Fox
+Asian red Fox
+Bat-eared Fox
+Blue Fox
+Cape Fox
+Crab-eating Fox
+Grey Fox
+North american red Fox
+Pampa gray Fox
+Savanna Fox
+Silver-backed Fox
+Coqui Francolin
+Swainson Francolin's
 Frilled dragon
 Frilled lizard
 Fringe-eared oryx
 Frog
-tawny Frogmouth
-
+Tawny Frogmouth
 Galah
 Galapagos albatross
 Galapagos dove
@@ -538,21 +532,20 @@ Galapagos hawk
 Galapagos mockingbird
 Galapagos penguin
 Galapagos sea lion
-us
 Gambel's quail
 Gaur
-grant Gazelle's
-thomson Gazelle's
-sun Gazer
+Grant Gazelle's
+Thomson Gazelle's
+Sun Gazer
 Gecko
-barking Gecko
-bent-toed Gecko
-ring-tailed Gecko
-tokay Gecko
+Barking Gecko
+Bent-toed Gecko
+Ring-tailed Gecko
+Tokay Gecko
 Gelada baboon
 Gemsbok
-common Genet
-small-spotted Genet
+Common Genet
+Small-spotted Genet
 Genoveva
 Gerbil
 Gerenuk
@@ -563,33 +556,33 @@ Giant heron
 Giant otter
 Gila monster
 Giraffe
-feathertail Glider
-squirrel Glider
-sugar Glider
+Feathertail Glider
+Squirrel Glider
+Sugar Glider
 Glossy ibis
 Glossy starling
-brindled Gnu
+Brindled Gnu
 Goanna lizard
-mountain Goat
-hudsonian Godwit
+Mountain Goat
+Hudsonian Godwit
 Golden brush-tailed possum
 Golden eagle
 Golden jackal
 Golden-mantled ground squirrel
-barrows Goldeneye
-common Goldeneye
+Barrows Goldeneye
+Common Goldeneye
 Goliath heron
-burchell Gonolek's
-andean Goose
-canada Goose
-cape barren Goose
-cereopsis Goose
-egyptian Goose
-greylag Goose
-knob-nosed Goose
-snow Goose
-terus gambensis
-western lowland Gorilla
+Burchell Gonolek's
+Andean Goose
+Canada Goose
+Cape barren Goose
+Cereopsis Goose
+Egyptian Goose
+Greylag Goose
+Knob-nosed Goose
+Snow Goose
+Terus gambensis
+Western lowland Gorilla
 Grant's gazelle
 Gray duiker
 Gray heron
@@ -601,21 +594,21 @@ Great horned owl
 Great kiskadee
 Great skua
 Great white pelican
-tilus dubius
+Tilus dubius
 Greater blue-eared starling
 Greater flamingo
 Greater kudu
 Greater rhea
 Greater roadrunner
 Greater sage grouse
-little Grebe
+Little Grebe
 Green heron
 Green vine snake
 Green-backed heron
 Green-winged macaw
 Green-winged trumpeter
-common Grenadier
-purple Grenadier
+Common Grenadier
+Purple Grenadier
 Grey fox
 Grey heron
 Grey lourie
@@ -629,54 +622,53 @@ Grizzly bear
 Ground legaan
 Ground monitor
 Groundhog
-greater sage Grouse
-sage Grouse
+Greater sage Grouse
+Sage Grouse
 Guanaco
 Guerza
-dusky Gull
-herring Gull
-kelp Gull
-lava Gull
-pacific Gull
-silver Gull
-southern black-backed Gull
-swallow-tail Gull
+Dusky Gull
+Herring Gull
+Kelp Gull
+Lava Gull
+Pacific Gull
+Silver Gull
+Southern black-backed Gull
+Swallow-tail Gull
 Gulls
-
 Hanuman langur
 Harbor seal
-arctic Hare
-coke Hartebeest's
-red Hartebeest
-ferruginous Hawk
-galapagos Hawk
-red-tailed Hawk
-crowned Hawk-eagle
+Arctic Hare
+Coke Hartebeest's
+Red Hartebeest
+Ferruginous Hawk
+Galapagos Hawk
+Red-tailed Hawk
+Crowned Hawk-eagle
 Hawk-headed parrot
-south african Hedgehog
+South african Hedgehog
 Helmeted guinea fowl
-sage Hen
-black-crowned night Heron
-boat-billed Heron
-giant Heron
-goliath Heron
-gray Heron
-green Heron
-green-backed Heron
-grey Heron
-little Heron
-striated Heron
-yellow-crowned night Heron
+Sage Hen
+Black-crowned night Heron
+Boat-billed Heron
+Giant Heron
+Goliath Heron
+Gray Heron
+Green Heron
+Green-backed Heron
+Grey Heron
+Little Heron
+Striated Heron
+Yellow-crowned night Heron
 Herring gull
 Hippopotamus
 Hoary marmot
 Hoffman's sloth
 Honey badger
-eurasian Hoopoe
-leadbeateri Hornbill's ground
-red-billed Hornbill
-southern ground Hornbill
-yellow-billed Hornbill
+Eurasian Hoopoe
+Leadbeateri Hornbill's ground
+Red-billed Hornbill
+Southern ground Hornbill
+Yellow-billed Hornbill
 Horned lark
 Horned puffin
 Horned rattlesnake
@@ -686,18 +678,17 @@ House sparrow
 Hudsonian godwit
 Hummingbird
 Huron
-brown Hyena
-spotted Hyena
-striped Hyena
+Brown Hyena
+Spotted Hyena
+Striped Hyena
 Hyrax
-
 Ibex
-glossy Ibis
-puna Ibis
-sacred Ibis
-common green Iguana
-land Iguana
-marine Iguana
+Glossy Ibis
+Puna Ibis
+Sacred Ibis
+Common green Iguana
+Land Iguana
+Marine Iguana
 Impala
 Indian giant squirrel
 Indian jackal
@@ -708,17 +699,16 @@ Indian porcupine
 Indian red admiral
 Indian star tortoise
 Indian tree pie
-stick Insect
-
+Stick Insect
 Jabiru stork
-hilornis africanus
-asiatic Jackal
-black-backed Jackal
-golden Jackal
-indian Jackal
-silver-backed Jackal
-white-tailed Jackrabbit
-long-tailed Jaeger
+Hilornis africanus
+Asiatic Jackal
+Black-backed Jackal
+Golden Jackal
+Indian Jackal
+Silver-backed Jackal
+White-tailed Jackrabbit
+Long-tailed Jaeger
 Jaguar
 Jaguarundi
 Japanese macaque
@@ -726,95 +716,93 @@ Javan gold-spotted mongoose
 Javanese cormorant
 Jungle cat
 Jungle kangaroo
-
 Kaffir cat
 Kafue flats lechwe
 Kalahari scrub robin
-black-faced Kangaroo
-brush-tailed rat Kangaroo
-eastern grey Kangaroo
-jungle Kangaroo
-red Kangaroo
-western grey Kangaroo
+Black-faced Kangaroo
+Brush-tailed rat Kangaroo
+Eastern grey Kangaroo
+Jungle Kangaroo
+Red Kangaroo
+Western grey Kangaroo
 Kelp gull
 Killer whale
 King cormorant
 King vulture
-malachite Kingfisher
-pied Kingfisher
-white-throated Kingfisher
+Malachite Kingfisher
+Pied Kingfisher
+White-throated Kingfisher
 Kinkajou
 Kirk's dik dik
-great Kiskadee
-black Kite
+Great Kiskadee
+Black Kite
 Klipspringer
 Knob-nosed goose
 Koala
 Komodo dragon
 Kongoni
-laughing Kookaburra
+Laughing Kookaburra
 Kori bustard
-greater Kudu
-
+Greater Kudu
 Land iguana
-common Langur
-gray Langur
-hanuman Langur
+Common Langur
+Gray Langur
+Hanuman Langur
 Lappet-faced vulture
 Lapwing
-southern Lapwing
+Southern Lapwing
 Large cormorant
 Large-eared bushbaby
-horned Lark
-elia senegalensis
+Horned Lark
+Elia senegalensis
 Laughing kookaburra
 Lava gull
 Leadbeateri's ground hornbill
 Least chipmunk
-kafue flats Lechwe
+Kafue flats Lechwe
 Legaan,
-ground Legaan
-water Legaan
-arctic Lemming
-collared Lemming
-brown Lemur
-grey mouse Lemur
-lesser mouse Lemur
-ring-tailed Lemur
-sportive Lemur
+Ground Legaan
+Water Legaan
+Arctic Lemming
+Collared Lemming
+Brown Lemur
+Grey mouse Lemur
+Lesser mouse Lemur
+Ring-tailed Lemur
+Sportive Lemur
 Leopard
-indian Leopard
+Indian Leopard
 Lesser double-collared sunbird
 Lesser flamingo
 Lesser masked weaver
 Lesser mouse lemur
 Levaillant's barbet
 Lilac-breasted roller
-hilornis africanus
-african Lion
-asian Lion
-australian sea Lion
-california sea Lion
-galapagos sea Lion
-mountain Lion
-south american sea Lion
-southern sea Lion
-ias jubatus
-ias jubatus
+Hilornis africanus
+African Lion
+Asian Lion
+Australian sea Lion
+California sea Lion
+Galapagos sea Lion
+Mountain Lion
+South american sea Lion
+Southern sea Lion
+Ias jubatus
+Ias jubatus
 Little blue penguin
 Little brown bat
-elia senegalensis
+Elia senegalensis
 Little cormorant
 Little grebe
 Little heron
 Lizard
-blue-tongued Lizard
-collared Lizard
-desert spiny Lizard
-frilled Lizard
-giant girdled Lizard
-goanna Lizard
-mexican beaded Lizard
+Blue-tongued Lizard
+Collared Lizard
+Desert spiny Lizard
+Frilled Lizard
+Giant girdled Lizard
+Goanna Lizard
+Mexican beaded Lizard
 Llama
 Long-billed cockatoo
 Long-billed corella
@@ -825,89 +813,87 @@ Long-nosed bandicoot
 Long-tailed jaeger
 Long-tailed skua
 Long-tailed spotted catLeopardus weidi
-scaly-breasted Lorikeet
-slender Loris
-rainbow Lory
-grey Lourie
-african Lynx
-
-bonnet Macaque
-japanese Macaque
-pig-tailed Macaque
-rhesus Macaque
-blue and gold Macaw
-blue and yellow Macaw
-green-winged Macaw
-red and blue Macaw
-scarlet Macaw
+Scaly-breasted Lorikeet
+Slender Loris
+Rainbow Lory
+Grey Lourie
+African Lynx
+Bonnet Macaque
+Japanese Macaque
+Pig-tailed Macaque
+Rhesus Macaque
+Blue and gold Macaw
+Blue and yellow Macaw
+Green-winged Macaw
+Red and blue Macaw
+Scarlet Macaw
 Madagascar fruit bat
 Madagascar hawk owl
 Magellanic penguin
 Magistrate black colobus
 Magnificent frigate bird
-australian Magpie
-black-backed Magpie
+Australian Magpie
+Black-backed Magpie
 Malabar squirrel
 Malachite kingfisher
-his madagascariensis
+His madagascariensis
 Malay squirrel
 Mallard
 Malleefowl
 Manatee
 Mandras tree shrew
 Mara
-tilos crumeniferus
+Tilos crumeniferus
 Margay
 Marine iguana
-hoary Marmot
-yellow-bellied Marmot
-brown and yellow Marshbird
-american Marten
+Hoary Marmot
+Yellow-bellied Marmot
+Brown and yellow Marshbird
+American Marten
 Masked booby
 Meerkat
-red Meerkat
+Red Meerkat
 Mexican beaded lizard
 Mexican boa
 Mexican wolf
 Miner's cat
 Mississippi alligator
-water Moccasin
+Water Moccasin
 Mocking cliffchat
-galapagos Mockingbird
-banded Mongoose
-eastern dwarf Mongoose
-javan gold-spotted Mongoose
-small indian Mongoose
-yellow Mongoose
+Galapagos Mockingbird
+Banded Mongoose
+Eastern dwarf Mongoose
+Javan gold-spotted Mongoose
+Small indian Mongoose
+Yellow Mongoose
 Monitor lizard
-two-banded Monitor
-water Monitor
-white-throated Monitor
-black spider Monkey
-bleeding heart Monkey
-red howler Monkey
-rhesus Monkey
-vervet Monkey
-gila Monster
-purple Moorhen
+Two-banded Monitor
+Water Monitor
+White-throated Monitor
+Black spider Monkey
+Bleeding heart Monkey
+Red howler Monkey
+Rhesus Monkey
+Vervet Monkey
+Gila Monster
+Purple Moorhen
 Moose
 Mouflon
 Mountain duck
 Mountain goat
 Mountain lion
-elia decipiens
-four-striped grass Mouse
+Elia decipiens
+Four-striped grass Mouse
 Mudskipper
 Mule deer
 Musk ox
-common Mynah
-indian Mynah
-
+Common Mynah
+Indian Mynah
 Native cat
 Nelson ground squirrel
 Neotropic cormorant
 Netted rock dragon
-common Nighthawk
+Common Nighthawk
 Nile crocodile
 Nilgai
 Nine-banded armadillo
@@ -920,48 +906,46 @@ Northern fur seal
 Northern phalarope
 Nubian bee-eater
 Numbat
-clark Nutcracker's
-red-breasted Nuthatch
+Clark Nutcracker's
+Red-breasted Nuthatch
 Nyala
-
 Ocelot
 Old world fruit bat
 Olive baboon
 Onager
 Openbill stork
-asian Openbill
-american virginia Opossum
+Asian Openbill
+American virginia Opossum
 Orca
 Oribi
 Oriental short-clawed otter
 Oriental white-backed vulture
 Ornate rock dragon
-beisa Oryx
-fringe-eared Oryx
+Beisa Oryx
+Fringe-eared Oryx
 Osprey
 Ostrich
-african clawless Otter
-brazilian Otter
-canadian river Otter
-cape clawless Otter
-giant Otter
-north american river Otter
-oriental short-clawed Otter
-small-clawed Otter
+African clawless Otter
+Brazilian Otter
+Canadian river Otter
+Cape clawless Otter
+Giant Otter
+North american river Otter
+Oriental short-clawed Otter
+Small-clawed Otter
 Ovenbird
-australian masked Owl
-burrowing Owl
-great horned Owl
-madagascar hawk Owl
-snowy Owl
-white-browed Owl
-musk Ox
-us ater
-
+Australian masked Owl
+Burrowing Owl
+Great horned Owl
+Madagascar hawk Owl
+Snowy Owl
+White-browed Owl
+Musk Ox
+Us ater
 Paca
 Pacific gull
 Paddy heron
-red-legged Pademelon
+Red-legged Pademelon
 Painted stork
 Pale white-eye
 Pale-throated three-toed sloth
@@ -969,100 +953,98 @@ Pallas's fish eagle
 Palm squirrel
 Pampa gray fox
 Paradoxure
-rose-ringed Parakeet
-hawk-headed Parrot
-coqui Partridge
-blue Peacock
-indian Peacock
-collared Peccary
-white-lipped Peccary
-australian Pelican
-brown Pelican
-eastern white Pelican
-great white Pelican
-fairy Penguin
-galapagos Penguin
-little blue Penguin
-magellanic Penguin
+Rose-ringed Parakeet
+Hawk-headed Parrot
+Coqui Partridge
+Blue Peacock
+Indian Peacock
+Collared Peccary
+White-lipped Peccary
+Australian Pelican
+Brown Pelican
+Eastern white Pelican
+Great white Pelican
+Fairy Penguin
+Galapagos Penguin
+Little blue Penguin
+Magellanic Penguin
 Peregrine falcon
-grey Phalarope
-northern Phalarope
-red Phalarope
-red-necked Phalarope
-brush-tailed Phascogale
-red-tailed Phascogale
-common Pheasant
-ring-necked Pheasant
-indian tree Pie
-rufous tree Pie
+Grey Phalarope
+Northern Phalarope
+Red Phalarope
+Red-necked Phalarope
+Brush-tailed Phascogale
+Red-tailed Phascogale
+Common Pheasant
+Ring-necked Pheasant
+Indian tree Pie
+Rufous tree Pie
 Pied avocet
 Pied butcher bird
 Pied cormorant
 Pied crow
 Pied kingfisher
 Pig-tailed macaque
-feral rock Pigeon
-wood Pigeon
+Feral rock Pigeon
+Wood Pigeon
 Pine siskin
 Pine snake
 Pine squirrel
-bahama Pintail
-white-cheeked Pintail
+Bahama Pintail
+White-cheeked Pintail
 Plains zebra
 Platypus
-blacksmith Plover
-three-banded Plover
+Blacksmith Plover
+Three-banded Plover
 Pocket gopher
 Polar bear
-african Polecat
-african Porcupine
-crested Porcupine
-indian Porcupine
-north american Porcupine
-prehensile-tailed Porcupine
-tree Porcupine
-common brushtail Possum
-golden brush-tailed Possum
-pygmy Possum
-ring-tailed Possum
-western pygmy Possum
+African Polecat
+African Porcupine
+Crested Porcupine
+Indian Porcupine
+North american Porcupine
+Prehensile-tailed Porcupine
+Tree Porcupine
+Common brushtail Possum
+Golden brush-tailed Possum
+Pygmy Possum
+Ring-tailed Possum
+Western pygmy Possum
 Potoroo
 Prairie falcon
 Praying mantis
 Prehensile-tailed porcupine
 Pronghorn
-horned Puffin
+Horned Puffin
 Puku
 Puma
-south american Puma
+South american Puma
 Puna ibis
 Purple grenadier
 Purple moorhen
 Pygmy possum
 Python
-carpet Python
-
-gambel Quail's
-eastern Quoll
-spotted-tailed Quoll
-
-eastern cottontail Rabbit
+Carpet Python
+Gambel Quail's
+Eastern Quoll
+Spotted-tailed Quoll
+Eastern cottontail Rabbit
 Raccoon dog
-common Raccoon
-crab-eating Raccoon
+Common Raccoon
+Crab-eating Raccoon
 Racer snake
-american Racer
-blue Racer
+American Racer
+Blue Racer
 Radiated tortoise
 Rainbow lory
-arboral spiny Rat
-desert kangaroo Rat
-white-faced tree Rat
-dusky Rattlesnake
-eastern diamondback Rattlesnake
-horned Rattlesnake
-cape Raven
-white-necked Raven
+Arboral spiny Rat
+Desert kangaroo Rat
+White-faced tree Rat
+Dusky Rattlesnake
+Eastern diamondback Rattlesnake
+Horned Rattlesnake
+Cape Raven
+White-necked Raven
 Red and blue macaw
 Red brocket
 Red deer
@@ -1094,16 +1076,16 @@ Red-tailed phascogale
 Red-tailed wambenger
 Red-winged blackbird
 Red-winged hawk
-bohor Reedbuck
+Bohor Reedbuck
 Reindeer
-common Rhea
-gray Rhea
-greater Rhea
+Common Rhea
+Gray Rhea
+Greater Rhea
 Rhesus macaque
 Rhesus monkey
-black Rhinoceros
-square-lipped Rhinoceros
-white Rhinoceros
+Black Rhinoceros
+Square-lipped Rhinoceros
+White Rhinoceros
 Richardson's ground squirrel
 Ring dove
 Ring-necked pheasant
@@ -1113,15 +1095,15 @@ Ring-tailed lemur
 Ring-tailed possum
 Ringtail
 Ringtail cat
-common Ringtail
+Common Ringtail
 River wallaby
-greater Roadrunner
+Greater Roadrunner
 Roan antelope
-kalahari scrub Robin
-white-throated Robin
+Kalahari scrub Robin
+White-throated Robin
 Rock dove
 Roe deer
-lilac-breasted Roller
+Lilac-breasted Roller
 Rose-ringed parakeet
 Roseat flamingo
 Roseate cockatoo
@@ -1129,7 +1111,6 @@ Royal tern
 Rufous tree pie
 Rufous-collared sparrow
 Russian dragonfly
-
 Sable antelope
 Sacred ibis
 Saddle-billed stork
@@ -1137,11 +1118,11 @@ Sage grouse
 Sage hen
 Sally lightfoot crab
 Salmon pink bird eater tarantula
-sockeye Salmon
+Sockeye Salmon
 Sambar
-yellow-throated Sandgrouse
+Yellow-throated Sandgrouse
 Sandhill crane
-spotted wood Sandpiper
+Spotted wood Sandpiper
 Sarus crane
 Savanna baboon
 Savanna fox
@@ -1150,64 +1131,64 @@ Savannah deer
 Scaly-breasted lorikeet
 Scarlet macaw
 Scottish highland cow
-crested Screamer
-southern Screamer
+Crested Screamer
+Southern Screamer
 Sea birds
-common Seal
-harbor Seal
-northern elephant Seal
-northern fur Seal
-southern elephant Seal
+Common Seal
+Harbor Seal
+Northern elephant Seal
+Northern fur Seal
+Southern elephant Seal
 Secretary bird
 Serval
 Seven-banded armadillo
-blue Shark
-snowy Sheathbill
-american bighorn Sheep
-red Sheep
-stone Sheep
-common Shelduck
-european Shelduck
+Blue Shark
+Snowy Sheathbill
+American bighorn Sheep
+Red Sheep
+Stone Sheep
+Common Shelduck
+European Shelduck
 Short-beaked echidna
 Short-nosed bandicoot
-mandras tree Shrew
-common boubou Shrike
-crimson-breasted Shrike
-southern white-crowned Shrike
+Mandras tree Shrew
+Common boubou Shrike
+Crimson-breasted Shrike
+Southern white-crowned Shrike
 Sidewinder
-verreaux Sifaka's
+Verreaux Sifaka's
 Silver gull
 Silver-backed fox
 Silver-backed jackal
-pine Siskin
-yellow-rumped Siskin
-four-spotted Skimmer
-african Skink
-blue-tongued Skink
-great Skua
-long-tailed Skua
-striped Skunk
-western spotted Skunk
+Pine Siskin
+Yellow-rumped Siskin
+Four-spotted Skimmer
+African Skink
+Blue-tongued Skink
+Great Skua
+Long-tailed Skua
+Striped Skunk
+Western spotted Skunk
 Slender loris
 Slender-billed cockatoo
 Sloth bear
-hoffman Sloth's
-pale-throated three-toed Sloth
-two-toed Sloth
-two-toed tree Sloth
+Hoffman Sloth's
+Pale-throated three-toed Sloth
+Two-toed Sloth
+Two-toed tree Sloth
 Small
 Small-clawed otter
 Small-spotted genet
 Small-toothed palm civet
 Smith's bush squirrel
 Snake
-buttermilk Snake
-carpet Snake
-eastern indigo Snake
-green vine Snake
-racer Snake
-tiger Snake
-western patch-nosed Snake
+Buttermilk Snake
+Carpet Snake
+Eastern indigo Snake
+Green vine Snake
+Racer Snake
+Tiger Snake
+Western patch-nosed Snake
 Snake-necked turtle
 Snow goose
 Snowy egret
@@ -1231,12 +1212,12 @@ Southern screamer
 Southern sea lion
 Southern tamandua
 Southern white-crowned shrike
-house Sparrow
-rufous-collared Sparrow
+House Sparrow
+Rufous-collared Sparrow
 Spectacled caiman
-wolf Spider
-european Spoonbill
-white Spoonbill
+Wolf Spider
+European Spoonbill
+White Spoonbill
 Sportive lemur
 Spotted deer
 Spotted hyena
@@ -1245,54 +1226,53 @@ Spotted-tailed quoll
 Springbok
 Springbuck
 Springhare
-terus gambensis
-yellow-necked Spurfowl
+Terus gambensis
+Yellow-necked Spurfowl
 Square-lipped rhinoceros
 Squirrel glider
-african bush Squirrel
-antelope ground Squirrel
-arctic ground Squirrel
-eastern fox Squirrel
-eurasian red Squirrel
-european red Squirrel
-golden-mantled ground Squirrel
-grey-footed Squirrel
-indian giant Squirrel
-malabar Squirrel
-nelson ground Squirrel
-palm Squirrel
-pine Squirrel
-red Squirrel
-richardson Squirrel's ground
-smith Squirrel's bush
-thirteen-lined Squirrel
-uinta ground Squirrel
+African bush Squirrel
+Antelope ground Squirrel
+Arctic ground Squirrel
+Eastern fox Squirrel
+Eurasian red Squirrel
+European red Squirrel
+Golden-mantled ground Squirrel
+Grey-footed Squirrel
+Indian giant Squirrel
+Malabar Squirrel
+Nelson ground Squirrel
+Palm Squirrel
+Pine Squirrel
+Red Squirrel
+Richardson Squirrel's ground
+Smith Squirrel's bush
+Thirteen-lined Squirrel
+Uinta ground Squirrel
 Stanley bustard
 Stanley crane
-crown of thorns Starfish
-cape Starling
-greater blue-eared Starling
-red-shouldered glossy Starling
-superb Starling
+Crown of thorns Starfish
+Cape Starling
+Greater blue-eared Starling
+Red-shouldered glossy Starling
+Superb Starling
 Steenbok
 Steenbuck
-ias jubatus
-ias jubatus
+Ias jubatus
+Ias jubatus
 Stick insect
-us
 Stone sheep
-black-necked Stork
-european Stork
-tilus dubius
-jabiru Stork
-tilos crumeniferus
-openbill Stork
-painted Stork
-saddle-billed Stork
-white Stork
-white-necked Stork
-woolly-necked Stork
-yellow-billed Stork
+Black-necked Stork
+European Stork
+Tilus dubius
+Jabiru Stork
+Tilos crumeniferus
+Openbill Stork
+Painted Stork
+Saddle-billed Stork
+White Stork
+White-necked Stork
+Woolly-necked Stork
+Yellow-billed Stork
 Striated heron
 Striped dolphin
 Striped hyena
@@ -1300,124 +1280,119 @@ Striped skunk
 Sugar glider
 Sulfur-crested cockatoo
 Sun gazer
-lesser double-collared Sunbird
-yellow-brown Sungazer
+Lesser double-collared Sunbird
+Yellow-brown Sungazer
 Superb starling
 Suricate
 Swainson's francolin
 Swallow
 Swallow-tail gull
 Swamp deer
-black Swan
-trumpeter Swan
-
+Black Swan
+Trumpeter Swan
 Tailless tenrec
-southern Tamandua
+Southern Tamandua
 Tammar wallaby
-brazilian Tapir
+Brazilian Tapir
 Tarantula
-salmon pink bird eater Tarantula
+Salmon pink bird eater Tarantula
 Tasmanian devil
 Tawny eagle
 Tawny frogmouth
 Tayra
-hottentot Teal
-tailless Tenrec
-arctic Tern
-royal Tern
-white-winged Tern
-white-winged black Tern
+Hottentot Teal
+Tailless Tenrec
+Arctic Tern
+Royal Tern
+White-winged Tern
+White-winged black Tern
 Thirteen-lined squirrel
 Thomson's gazelle
-curve-billed Thrasher
+Curve-billed Thrasher
 Three-banded plover
 Tiger
 Tiger cat
 Tiger snake
 Timber wolf
-elegant crested Tinamou
+Elegant crested Tinamou
 Toddy cat
 Tokay gecko
 Topi
-asian foreset Tortoise
-burmese black mountain Tortoise
-burmese brown mountain Tortoise
-desert Tortoise
-us
-indian star Tortoise
-radiated Tortoise
-red-billed Toucan
-white-throated Toucan
+Asian foreset Tortoise
+Burmese black mountain Tortoise
+Burmese brown mountain Tortoise
+Desert Tortoise
+Indian star Tortoise
+Radiated Tortoise
+Red-billed Toucan
+White-throated Toucan
 Tree porcupine
 Tropical buckeye butterfly
-hilornis africanus
+Hilornis africanus
 Trumpeter swan
-dark-winged Trumpeter
-green-winged Trumpeter
+Dark-winged Trumpeter
+Green-winged Trumpeter
 Tsessebe
-violet-crested Turaco
+Violet-crested Turaco
 Turkey vulture
-australian brush Turkey
-common Turkey
-wild Turkey
+Australian brush Turkey
+Common Turkey
+Wild Turkey
 Turtle
-eastern box Turtle
-long-necked Turtle
-snake-necked Turtle
+Eastern box Turtle
+Long-necked Turtle
+Snake-necked Turtle
 Two-banded monitor
 Two-toed sloth
 Two-toed tree sloth
 Tyrant flycatcher
-
 Uinta ground squirrel
 Urial
-
 Verreaux's sifaka
 Vervet monkey
 Vicuna
 Vine snake
 Violet-crested turaco
 Violet-eared waxbill
-egyptian Viper
-bengal Vulture
-black Vulture
-egyptian Vulture
-griffon Vulture
-king Vulture
-lappet-faced Vulture
-oriental white-backed Vulture
-turkey Vulture
-white-headed Vulture
-white-rumped Vulture
-
-african pied Wagtail
-agile Wallaby
-bennett Wallaby's
-dama Wallaby
-euro Wallaby
-red-necked Wallaby
-river Wallaby
-tammar Wallaby
-whip-tailed Wallaby
-common Wallaroo
-red-tailed Wambenger
-elk Wapiti,
+Egyptian Viper
+Bengal Vulture
+Black Vulture
+Egyptian Vulture
+Griffon Vulture
+King Vulture
+Lappet-faced Vulture
+Oriental white-backed Vulture
+Turkey Vulture
+White-headed Vulture
+White-rumped Vulture
+African pied Wagtail
+Agile Wallaby
+Bennett Wallaby's
+Dama Wallaby
+Euro Wallaby
+Red-necked Wallaby
+River Wallaby
+Tammar Wallaby
+Whip-tailed Wallaby
+Common Wallaroo
+Red-tailed Wambenger
+Elk Wapiti,
 Warthog
 Water legaan
 Water moccasin
 Water monitor
-common Waterbuck
-defassa Waterbuck
+Common Waterbuck
+Defassa Waterbuck
 Wattled crane
 Waved albatross
-black-cheeked Waxbill
-blue Waxbill
-violet-eared Waxbill
-chestnut Weaver
-lesser masked Weaver
-red-billed buffalo Weaver
-sociable Weaver
-white-browed sparrow Weaver
+Black-cheeked Waxbill
+Blue Waxbill
+Violet-eared Waxbill
+Chestnut Weaver
+Lesser masked Weaver
+Red-billed buffalo Weaver
+Sociable Weaver
+White-browed sparrow Weaver
 Weeper capuchin
 Western bearded dragon
 Western grey kangaroo
@@ -1426,10 +1401,10 @@ Western palm tanager
 Western patch-nosed snake
 Western pygmy possum
 Western spotted skunk
-baleen Whale
-killer Whale
-long-finned pilot Whale
-southern right Whale
+Baleen Whale
+Killer Whale
+Long-finned pilot Whale
+Southern right Whale
 Whip-tailed wallaby
 White rhinoceros
 White spoonbill
@@ -1438,8 +1413,8 @@ White-bellied sea eagle
 White-browed owl
 White-browed sparrow weaver
 White-cheeked pintail
-cape White-eye
-pale White-eye
+Cape White-eye
+Pale White-eye
 White-faced tree rat
 White-faced whistling duck
 White-fronted bee-eater
@@ -1463,18 +1438,18 @@ White-winged tern
 Wild boar
 Wild turkey
 Wild water buffalo
-blue Wildebeest
+Blue Wildebeest
 Wolf spider
-common Wolf
-mexican Wolf
-timber Wolf
-common Wombat
-southern hairy-nosed Wombat
+Common Wolf
+Mexican Wolf
+Timber Wolf
+Common Wombat
+Southern hairy-nosed Wombat
 Wood pigeon
 Woodchuck
-american Woodcock
-downy Woodpecker
-red-headed Woodpecker
+American Woodcock
+Downy Woodpecker
+Red-headed Woodpecker
 Woodrat
 Woolly-necked stork
 Worm snake
