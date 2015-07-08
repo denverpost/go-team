@@ -1,1471 +1,859 @@
 Aardwolf
 Admiral
 Adouri
-African black crake
-African buffalo
-African bush squirrel
-African clawless otter
-African darter
-African elephant
-African fish eagle
-African ground squirrel
-Hilornis africanus
-African lion
-African lynx
-African pied wagtail
-African polecat
-African porcupine
-African red-eyed bulbul
-African skink
-African snake
-African wild cat
-African wild dog
-Agama lizard
-Agile wallaby
+African Black Crake
+African Buffalo
+African Bush Squirrel
+African Clawless Otter
+African Darter
+African Elephant
+African Fish Eagle
+African Ground Squirrel
+African Lion
+African Lynx
+African Pied Wagtail
+African Polecat
+African Porcupine
+African Red-eyed Bulbul
+African Skink
+African Snake
+African Wild Cat
+African Wild Dog
+Agama Lizard
+Agile Wallaby
 Agouti
 Albatross
 Alligator
 Alpaca
-Amazon parrot
+Amazon Parrot
 American
-American badger
-American beaver
-American bighorn sheep
-American bison
-American black bear
-American buffalo
-American crow
-American marten
-American racer
-American woodcock
+American Badger
+American Beaver
+American Bighorn Sheep
+American Bison
+American Black Bear
+American Buffalo
+American Crow
+American Marten
+American Racer
+American Virginia Opossum
+American Woodcock
 Anaconda
-Andean goose
+Andean Goose
 Ant
 Anteater
-Giant Anteater
 Antechinus
-Antelope ground squirrel
 Antelope
-Arboral spiny rat
-Arctic fox
-Arctic ground squirrel
-Arctic hare
-Arctic lemming
-Arctic tern
+Antelope Ground Squirrel
+Arboral Spiny Rat
+Arctic Fox
+Arctic Ground Squirrel
+Arctic Hare
+Arctic Lemming
+Arctic Tern
 Argalis
 Armadillo
-Giant Armadillo
-False vampire bat
-Openbill
-Red fox
-Water buffalo
-Water dragon
+Asian Elephant
+Asian Foreset Tortoise
+Asian Lion
+Asian Openbill
+Asian Red Fox
+Asian Water Buffalo
+Asian Water Dragon
 Asiatic Jackal
-Wild Ass
-Australian brush turkey
-Australian magpie
-Australian masked owl
-Australian pelican
-Australian sea lion
-Australian spiny anteater
-Pied Avocet
-Azara's zorro
+Australian Brush Turkey
+Australian Magpie
+Australian Masked Owl
+Australian Pelican
+Australian Sea Lion
+Australian Spiny Anteater
+Azara's Zorro
 Baboon
-Olive Baboon
-European Badger
-Honey Badger
-Bahama pintail
-Bald eagle
-Baleen whale
-Banded mongoose
-Long-nosed Bandicoot
-Short-nosed Bandicoot
+Bahama Pintail
+Bald Eagle
+Baleen Whale
+Banded Mongoose
 Bandicoot
-Barasingha deer
+Barasingha Deer
 Barbet
-Crested Barbet
 Bare-faced Go Away Bird
-Barking gecko
-Barrows goldeneye
-False Vampire Bat
-Little Brown Bat
-Fruit Bat
-Bat-eared fox
-Bateleur eagle
-Black Bear
-Grizzly Bear
-Polar Bear
-Sloth Bear
+Barking Gecko
+Barrows Goldeneye
+Bat-eared Fox
+Bateleur Eagle
 Beaver
 Bee-eater
-Carmine Bee-eater
-Nubian Bee-eater
-White-fronted Bee-eater
-Beisa oryx
-Bengal vulture
-Bennett's wallaby
-Bent-toed gecko
-Brush-tailed Bettong
+Beisa Oryx
+Bengal Vulture
+Bennett Wallaby's
+Bennett's Wallaby
+Bent-toed Gecko
 Bird
-Bare-faced go away Bird
-Black-throated butcher Bird
-Magnificent frigate Bird
-Pied butcher Bird
-Red-billed tropic Bird
-Secretary Bird
-American Bison
-Black and white colobus
-Black bear
-Us ater
-Black kite
-Black rhinoceros
-Black spider monkey
-Black swan
-Black vulture
-Black-backed jackal
-Black-backed magpie
-Black-capped capuchin
-Black-capped chickadee
-Black-cheeked waxbill
-Black-collared barbet
-Black-crowned crane
-Black-crowned night heron
-Black-eyed bulbul
-Black-faced kangaroo
-Black-footed ferret
-Black-fronted bulbul
-Black-necked stork
-Black-tailed deer
-Black-tailed prairie dog
-Black-tailed tree creeper
-Black-throated butcher bird
-Black-throated cardinal
-Us
-Red-winged Blackbird
+Black And White Colobus
+Black Bear
+Black Kite
+Black Rhinoceros
+Black Spider Monkey
+Black Swan
+Black Vulture
+Black-backed Jackal
+Black-backed Magpie
+Black-capped Capuchin
+Black-capped Chickadee
+Black-cheeked Waxbill
+Black-collared Barbet
+Black-crowned Crane
+Black-crowned Night Heron
+Black-eyed Bulbul
+Black-faced Kangaroo
+Black-footed Ferret
+Black-fronted Bulbul
+Black-necked Stork
+Black-tailed Deer
+Black-tailed Prairie Dog
+Black-tailed Tree Creeper
+Black-throated Butcher Bird
+Black-throated Cardinal
 Blackbuck
-Us ater
-Blacksmith plover
-Bleeding heart monkey
+Blacksmith Plover
+Bleeding Heart Monkey
 Blesbok
-Blue-breasted cordon Bleu
-Red-cheeked cordon Bleu
-Blue and gold macaw
-Blue and yellow macaw
-Blue catfish
-Blue crane
-Blue duck
-Blue fox
-Blue peacock
-Blue racer
-Blue shark
-Blue waxbill
-Blue wildebeest
-Blue-breasted cordon bleu
-Blue-faced booby
-Blue-footed booby
-Blue-tongued lizard
-Blue-tongued skink
-Columbian rainbow Boa
-Cook Boa's tree
-Emerald green tree Boa
-His madagascariensis
-Mexican Boa
-Wild Boar
-Boat-billed heron
-Bobcat
-Bohor reedbuck
-Bonnet macaque
-Bontebok
+Blue And Gold Macaw
+Blue And Yellow Macaw
+Blue Catfish
+Blue Crane
+Blue Duck
+Blue Fox
+Blue Peacock
+Blue Racer
+Blue Shark
+Blue Waxbill
+Blue Wildebeest
+Blue-breasted Cordon Bleu
 Blue-faced Booby
 Blue-footed Booby
-Masked Booby
-Bottle-nose dolphin
-Southern Boubou
-Brazilian otter
-Brazilian tapir
-Brindled gnu
+Blue-tongued Lizard
+Blue-tongued Skink
+Boat-billed Heron
+Bobcat
+Bohor Reedbuck
+Bonnet Macaque
+Bontebok
+Bottle-nose Dolphin
+Brazilian Otter
+Brazilian Tapir
+Brindled Gnu
+Brolga Crane
+Brown And Yellow Marshbird
+Brown Antechinus
 Brown Brocket
-Red Brocket
-Brolga crane
-Brown and yellow marshbird
-Brown antechinus
-Brown brocket
-Brown capuchin
-Brown hyena
-Brown lemur
-Brown pelican
-Brush-tailed bettong
-Brush-tailed phascogale
-Brush-tailed rat kangaroo
-African Buffalo
+Brown Capuchin
+Brown Hyena
+Brown Lemur
+Brown Pelican
+Brush-tailed Bettong
+Brush-tailed Phascogale
+Brush-tailed Rat Kangaroo
 Buffalo
-Asian Water Buffalo
-Wild Water Buffalo
-African red-eyed Bulbul
-Black-eyed Bulbul
-Black-fronted Bulbul
-Crested Bunting
-Burchell's gonolek
-Burmese black mountain tortoise
-Burmese brown mountain tortoise
-Burrowing owl
-Bush dog
-Large-eared Bushbaby
+Burchell Gonolek's
+Burchell's Gonolek
+Burmese Black Mountain Tortoise
+Burmese Brown Mountain Tortoise
+Burrowing Owl
+Bush Dog
 Bushbuck
 Bushpig
-Denham Bustard's
-Kori Bustard
-Stanley Bustard
 Butterfly
-Canadian tiger swallowtail Butterfly
-Tropical buckeye Butterfly
-Buttermilk snake
-Spectacled Caiman
-California sea lion
-Dromedary Camel
-Campo flicker
-Canada goose
-Canadian river otter
-Canadian tiger swallowtail butterfly
+Buttermilk Snake
+California Sea Lion
+Campo Flicker
+Canada Goose
+Canadian River Otter
+Canadian Tiger Swallowtail Butterfly
 Cape
-Cape clawless otter
-Cape cobra
-Cape fox
-Cape raven
-Cape starling
-Cape white-eye
-Cape wild cat
-Black-capped Capuchin
-Brown Capuchin
-Weeper Capuchin
-White-fronted Capuchin
+Cape Barren Goose
+Cape Clawless Otter
+Cape Cobra
+Cape Fox
+Cape Raven
+Cape Starling
+Cape White-eye
+Cape Wild Cat
 Capybara
 Caracal
 Caracara
-Yellow-headed Caracara
-Black-throated Cardinal
-Red-capped Cardinal
 Caribou
-Carmine bee-eater
-Carpet python
-Carpet snake
-African wild Cat
-Cape wild Cat
-Civet Cat
-European wild Cat
-Jungle Cat
-Kaffir Cat
-Long-tailed spotted Cat
-Miner Cat's
-Native Cat
-Ringtail Cat
-Tiger Cat
-Toddy Cat
-Blue Catfish
-Cattle egret
-Cereopsis goose
-Chacma baboon
+Carmine Bee-eater
+Carpet Python
+Carpet Snake
+Cattle Egret
+Cereopsis Goose
+Chacma Baboon
 Chameleon
 Cheetah
-Chestnut weaver
-Black-capped Chickadee
-Chilean flamingo
+Chestnut Weaver
+Chilean Flamingo
 Chimpanzee
-Least Chipmunk
 Chital
 Chuckwalla
 Civet
-Civet cat
-Common palm Civet
-Small-toothed palm Civet
-Clark's nutcracker
-Mocking Cliffchat
-Ring-tailed Coatimundi
-White-nosed Coatimundi
+Civet Cat
+Clark Nutcracker's
+Clark's Nutcracker
 Cobra
-Cape Cobra
-Egyptian Cobra
-Long-billed Cockatoo
-Red-breasted Cockatoo
-Red-tailed Cockatoo
-Roseate Cockatoo
-Slender-billed Cockatoo
-Sulfur-crested Cockatoo
-Coke's hartebeest
-Collared lemming
-Collared lizard
-Collared peccary
-Black and white Colobus
-Magistrate black Colobus
-White-mantled Colobus
-Columbian rainbow boa
-Comb duck
-Common boubou shrike
-Common brushtail possum
-Common dolphin
-Common duiker
-Common eland
-Common genet
-Common goldeneye
-Common green iguana
-Common grenadier
-Common langur
-Common long-nosed armadillo
-Common melba finch
-Common mynah
-Common nighthawk
-Common palm civet
-Common pheasant
-Common raccoon
-Common rhea
-Common ringtail
-Common seal
-Common shelduck
-Common turkey
-Common wallaroo
-Common waterbuck
-Common wolf
-Common wombat
-Common zebra
-Common zorro
-His madagascariensis
-Cook's tree boa
-Red-knobbed Coot
-Coqui francolin
-Coqui partridge
-Long-billed Corella
+Coke Hartebeest's
+Coke's Hartebeest
+Collared Lemming
+Collared Lizard
+Collared Peccary
+Columbian Rainbow Boa
+Comb Duck
+Common Boubou Shrike
+Common Brushtail Possum
+Common Dolphin
+Common Duiker
+Common Eland
+Common Genet
+Common Goldeneye
+Common Green Iguana
+Common Grenadier
+Common Langur
+Common Long-nosed Armadillo
+Common Melba Finch
+Common Mynah
+Common Nighthawk
+Common Palm Civet
+Common Pheasant
+Common Raccoon
+Common Rhea
+Common Ringtail
+Common Seal
+Common Shelduck
+Common Turkey
+Common Wallaroo
+Common Waterbuck
+Common Wolf
+Common Wombat
+Common Zebra
+Common Zorro
+Cook Boa's Tree
+Cook's Tree Boa
+Coqui Francolin
+Coqui Partridge
 Cormorant
-Flightless Cormorant
-Great Cormorant
-Javanese Cormorant
-King Cormorant
-Large Cormorant
-Little Cormorant
-Neotropic Cormorant
-Pied Cormorant
 Cottonmouth
 Cougar
-Scottish highland Cow
 Coyote
 Crab
-Red lava Crab
-Sally lightfoot Crab
-Crab-eating fox
-Crab-eating raccoon
-African black Crake
-Black-crowned Crane
-Blue Crane
-Brolga Crane
-Sandhill Crane
-Sarus Crane
-Stanley Crane
-Wattled Crane
-Black-tailed tree Creeper
-Crested barbet
-Crested bunting
-Crested porcupine
-Crested screamer
-Crimson-breasted shrike
-Nile Crocodile
-American Crow
-House Crow
-Pied Crow
-Crown of thorns starfish
-Crowned eagle
-Crowned hawk-eagle
-Cuis
-Us Ater
-Currasow
-Curve-billed thrasher
-Dabchick
-Dama wallaby
-Dark-winged trumpeter
-African Darter
-Darwin ground finch
-Dassie
-Barasingha Deer
-Black-tailed Deer
-Mule Deer
-Red Deer
-Roe Deer
-Savannah Deer
-Spotted Deer
-Swamp Deer
-White-tailed Deer
-Defassa waterbuck
-Denham's bustard
-Desert kangaroo rat
-Desert spiny lizard
-Desert tortoise
-Tasmanian Devil
-Kirk Dik's dik
-Dingo
-African wild Dog
-Black-tailed prairie Dog
-Bush Dog
-Raccoon Dog
-Bottle-nose Dolphin
-Common Dolphin
-Striped Dolphin
-Emerald-spotted wood Dove
-Galapagos Dove
-Elia senegalensis
-Elia decipiens
-Ring Dove
-Rock Dove
-White-winged Dove
-Downy woodpecker
-Asian Water Dragon
-Frilled Dragon
-Komodo Dragon
-Netted rock Dragon
-Ornate rock Dragon
-Western bearded Dragon
-Russian Dragonfly
-Dromedary camel
-Fork-tailed Drongo
-Blue Duck
-Comb Duck
-Mountain Duck
-White-faced whistling Duck
-Common Duiker
-Gray Duiker
-Fat-tailed Dunnart
-Dusky gull
-Dusky rattlesnake
-Eagle owl
-African fish Eagle
-Bald Eagle
-Bateleur Eagle
-Crowned Eagle
-Golden Eagle
-Long-crested hawk Eagle
-Pallas Eagle's fish
-Tawny Eagle
-White-bellied sea Eagle
-His madagascariensis
-Eastern box turtle
-Eastern cottontail rabbit
-Eastern diamondback rattlesnake
-Eastern dwarf mongoose
-Eastern fox squirrel
-Eastern grey kangaroo
-Eastern indigo snake
-Eastern quoll
-Eastern white pelican
-Short-beaked Echidna
-Cattle Egret
-Great Egret
-Snowy Egret
-Egyptian cobra
-Egyptian goose
-Egyptian viper
-Egyptian vulture
-Common Eland
-Elegant crested tinamou
-African Elephant
-Asian Elephant
-Eleven-banded armadillo
-Elk,Cervus canadensis
-Emerald green tree boa
-Emerald-spotted wood dove
-Emu
-Eurasian badger
-Eurasian beaver
-Eurasian hoopoe
-Eurasian red squirrel
-Euro wallaby
-European badger
-European beaver
-European red squirrel
-European shelduck
-European spoonbill
-European stork
-European wild cat
-Fairy penguin
-Peregrine Falcon
-Prairie Falcon
-Fat-tailed dunnart
-Feathertail glider
-Feral rock pigeon
-Black-footed Ferret
-Ferruginous hawk
-Field flicker
-Common melba Finch
-Fisher
-Chilean Flamingo
-Greater Flamingo
-Lesser Flamingo
-Roseat Flamingo
-Campo Flicker
-Field Flicker
-Flightless cormorant
-Tyrant Flycatcher
-Flying fox
-Fork-tailed drongo
-Four-horned antelope
-Four-spotted skimmer
-Four-striped grass mouse
-Helmeted guinea Fowl
-Arctic Fox
-Asian red Fox
-Bat-eared Fox
-Blue Fox
-Cape Fox
 Crab-eating Fox
-Grey Fox
-North american red Fox
-Pampa gray Fox
-Savanna Fox
-Silver-backed Fox
-Coqui Francolin
-Swainson Francolin's
-Frilled dragon
-Frilled lizard
-Fringe-eared oryx
+Crab-eating Raccoon
+Crested Barbet
+Crested Bunting
+Crested Porcupine
+Crested Screamer
+Crimson-breasted Shrike
+Crown Of Thorns Starfish
+Crowned Eagle
+Crowned Hawk-eagle
+Cuis
+Currasow
+Curve-billed Thrasher
+Dabchick
+Dama Wallaby
+Dark-winged Trumpeter
+Darwin Ground Finch
+Dassie
+Defassa Waterbuck
+Denham Bustard's
+Denham's Bustard
+Desert Kangaroo Rat
+Desert Spiny Lizard
+Desert Tortoise
+Dingo
+Downy Woodpecker
+Dromedary Camel
+Dusky Gull
+Dusky Rattlesnake
+Eagle Owl
+Eastern Box Turtle
+Eastern Cottontail Rabbit
+Eastern Diamondback Rattlesnake
+Eastern Dwarf Mongoose
+Eastern Fox Squirrel
+Eastern Grey Kangaroo
+Eastern Indigo Snake
+Eastern Quoll
+Eastern White Pelican
+Egyptian Cobra
+Egyptian Goose
+Egyptian Viper
+Egyptian Vulture
+Elegant Crested Tinamou
+Eleven-banded Armadillo
+Elia Decipiens
+Elia Senegalensis
+Elk Wapiti,
+Elk,Cervus Canadensis
+Emerald Green Tree Boa
+Emerald-spotted Wood Dove
+Emu
+Eurasian Badger
+Eurasian Beaver
+Eurasian Hoopoe
+Eurasian Red Squirrel
+Euro Wallaby
+European Badger
+European Beaver
+European Red Squirrel
+European Shelduck
+European Spoonbill
+European Stork
+European Wild Cat
+Fairy Penguin
+False Vampire Bat
+Fat-tailed Dunnart
+Feathertail Glider
+Feral Rock Pigeon
+Ferruginous Hawk
+Field Flicker
+Fisher
+Flightless Cormorant
+Flying Fox
+Fork-tailed Drongo
+Four-horned Antelope
+Four-spotted Skimmer
+Four-striped Grass Mouse
+Frilled Dragon
+Frilled Lizard
+Fringe-eared Oryx
 Frog
-Tawny Frogmouth
+Fruit Bat
 Galah
-Galapagos albatross
-Galapagos dove
-Galapagos hawk
-Galapagos mockingbird
-Galapagos penguin
-Galapagos sea lion
-Gambel's quail
+Galapagos Albatross
+Galapagos Dove
+Galapagos Hawk
+Galapagos Mockingbird
+Galapagos Penguin
+Galapagos Sea Lion
+Gambel Quail's
+Gambel's Quail
 Gaur
-Grant Gazelle's
-Thomson Gazelle's
-Sun Gazer
 Gecko
-Barking Gecko
-Bent-toed Gecko
-Ring-tailed Gecko
-Tokay Gecko
-Gelada baboon
+Gelada Baboon
 Gemsbok
-Common Genet
-Small-spotted Genet
 Genoveva
 Gerbil
 Gerenuk
-Giant anteater
-Giant armadillo
-Giant girdled lizard
-Giant heron
-Giant otter
-Gila monster
+Giant Anteater
+Giant Armadillo
+Giant Girdled Lizard
+Giant Heron
+Giant Otter
+Gila Monster
 Giraffe
-Feathertail Glider
-Squirrel Glider
-Sugar Glider
-Glossy ibis
-Glossy starling
-Brindled Gnu
-Goanna lizard
-Mountain Goat
-Hudsonian Godwit
-Golden brush-tailed possum
-Golden eagle
-Golden jackal
-Golden-mantled ground squirrel
-Barrows Goldeneye
-Common Goldeneye
-Goliath heron
-Burchell Gonolek's
-Andean Goose
-Canada Goose
-Cape barren Goose
-Cereopsis Goose
-Egyptian Goose
+Glossy Ibis
+Glossy Starling
+Goanna Lizard
+Golden Brush-tailed Possum
+Golden Eagle
+Golden Jackal
+Golden-mantled Ground Squirrel
+Goliath Heron
+Grant Gazelle's
+Grant's Gazelle
+Gray Duiker
+Gray Heron
+Gray Langur
+Gray Rhea
+Great Cormorant
+Great Egret
+Great Horned Owl
+Great Kiskadee
+Great Skua
+Great White Pelican
+Greater Blue-eared Starling
+Greater Flamingo
+Greater Kudu
+Greater Rhea
+Greater Roadrunner
+Greater Sage Grouse
+Green Heron
+Green Vine Snake
+Green-backed Heron
+Green-winged Macaw
+Green-winged Trumpeter
+Grey Fox
+Grey Heron
+Grey Lourie
+Grey Mouse Lemur
+Grey Phalarope
+Grey-footed Squirrel
 Greylag Goose
-Knob-nosed Goose
-Snow Goose
-Terus gambensis
-Western lowland Gorilla
-Grant's gazelle
-Gray duiker
-Gray heron
-Gray langur
-Gray rhea
-Great cormorant
-Great egret
-Great horned owl
-Great kiskadee
-Great skua
-Great white pelican
-Tilus dubius
-Greater blue-eared starling
-Greater flamingo
-Greater kudu
-Greater rhea
-Greater roadrunner
-Greater sage grouse
-Little Grebe
-Green heron
-Green vine snake
-Green-backed heron
-Green-winged macaw
-Green-winged trumpeter
-Common Grenadier
-Purple Grenadier
-Grey fox
-Grey heron
-Grey lourie
-Grey mouse lemur
-Grey phalarope
-Grey-footed squirrel
-Greylag goose
-Griffon vulture
+Griffon Vulture
 Grison
-Grizzly bear
-Ground legaan
-Ground monitor
+Grizzly Bear
+Ground Legaan
+Ground Monitor
 Groundhog
-Greater sage Grouse
-Sage Grouse
 Guanaco
 Guerza
-Dusky Gull
-Herring Gull
-Kelp Gull
-Lava Gull
-Pacific Gull
-Silver Gull
-Southern black-backed Gull
-Swallow-tail Gull
 Gulls
-Hanuman langur
-Harbor seal
-Arctic Hare
-Coke Hartebeest's
-Red Hartebeest
-Ferruginous Hawk
-Galapagos Hawk
-Red-tailed Hawk
-Crowned Hawk-eagle
-Hawk-headed parrot
-South african Hedgehog
-Helmeted guinea fowl
-Sage Hen
-Black-crowned night Heron
-Boat-billed Heron
-Giant Heron
-Goliath Heron
-Gray Heron
-Green Heron
-Green-backed Heron
-Grey Heron
-Little Heron
-Striated Heron
-Yellow-crowned night Heron
-Herring gull
+Hanuman Langur
+Harbor Seal
+Hawk-headed Parrot
+Helmeted Guinea Fowl
+Herring Gull
+Hilornis Africanus
 Hippopotamus
-Hoary marmot
-Hoffman's sloth
-Honey badger
-Eurasian Hoopoe
-Leadbeateri Hornbill's ground
-Red-billed Hornbill
-Southern ground Hornbill
-Yellow-billed Hornbill
-Horned lark
-Horned puffin
-Horned rattlesnake
-Hottentot teal
-House crow
-House sparrow
-Hudsonian godwit
+His Madagascariensis
+Hoary Marmot
+Hoffman Sloth's
+Hoffman's Sloth
+Honey Badger
+Horned Lark
+Horned Puffin
+Horned Rattlesnake
+Hottentot Teal
+House Crow
+House Sparrow
+Hudsonian Godwit
 Hummingbird
 Huron
-Brown Hyena
-Spotted Hyena
-Striped Hyena
 Hyrax
+Ias Jubatus
 Ibex
-Glossy Ibis
-Puna Ibis
-Sacred Ibis
-Common green Iguana
-Land Iguana
-Marine Iguana
 Impala
-Indian giant squirrel
-Indian jackal
-Indian leopard
-Indian mynah
-Indian peacock
-Indian porcupine
-Indian red admiral
-Indian star tortoise
-Indian tree pie
-Stick Insect
-Jabiru stork
-Hilornis africanus
-Asiatic Jackal
-Black-backed Jackal
-Golden Jackal
+Indian Giant Squirrel
 Indian Jackal
-Silver-backed Jackal
-White-tailed Jackrabbit
-Long-tailed Jaeger
+Indian Leopard
+Indian Mynah
+Indian Peacock
+Indian Porcupine
+Indian Red Admiral
+Indian Star Tortoise
+Indian Tree Pie
+Jabiru Stork
 Jaguar
 Jaguarundi
-Japanese macaque
-Javan gold-spotted mongoose
-Javanese cormorant
-Jungle cat
-Jungle kangaroo
-Kaffir cat
-Kafue flats lechwe
-Kalahari scrub robin
-Black-faced Kangaroo
-Brush-tailed rat Kangaroo
-Eastern grey Kangaroo
-Jungle Kangaroo
-Red Kangaroo
-Western grey Kangaroo
-Kelp gull
-Killer whale
-King cormorant
-King vulture
-Malachite Kingfisher
-Pied Kingfisher
-White-throated Kingfisher
-Kinkajou
-Kirk's dik dik
-Great Kiskadee
-Black Kite
-Klipspringer
-Knob-nosed goose
-Koala
-Komodo dragon
-Kongoni
-Laughing Kookaburra
-Kori bustard
-Greater Kudu
-Land iguana
-Common Langur
-Gray Langur
-Hanuman Langur
-Lappet-faced vulture
-Lapwing
-Southern Lapwing
-Large cormorant
-Large-eared bushbaby
-Horned Lark
-Elia senegalensis
-Laughing kookaburra
-Lava gull
-Leadbeateri's ground hornbill
-Least chipmunk
-Kafue flats Lechwe
-Legaan,
-Ground Legaan
-Water Legaan
-Arctic Lemming
-Collared Lemming
-Brown Lemur
-Grey mouse Lemur
-Lesser mouse Lemur
-Ring-tailed Lemur
-Sportive Lemur
-Leopard
-Indian Leopard
-Lesser double-collared sunbird
-Lesser flamingo
-Lesser masked weaver
-Lesser mouse lemur
-Levaillant's barbet
-Lilac-breasted roller
-Hilornis africanus
-African Lion
-Asian Lion
-Australian sea Lion
-California sea Lion
-Galapagos sea Lion
-Mountain Lion
-South american sea Lion
-Southern sea Lion
-Ias jubatus
-Ias jubatus
-Little blue penguin
-Little brown bat
-Elia senegalensis
-Little cormorant
-Little grebe
-Little heron
-Lizard
-Blue-tongued Lizard
-Collared Lizard
-Desert spiny Lizard
-Frilled Lizard
-Giant girdled Lizard
-Goanna Lizard
-Mexican beaded Lizard
-Llama
-Long-billed cockatoo
-Long-billed corella
-Long-crested hawk eagle
-Long-finned pilot whale
-Long-necked turtle
-Long-nosed bandicoot
-Long-tailed jaeger
-Long-tailed skua
-Long-tailed spotted catLeopardus weidi
-Scaly-breasted Lorikeet
-Slender Loris
-Rainbow Lory
-Grey Lourie
-African Lynx
-Bonnet Macaque
 Japanese Macaque
-Pig-tailed Macaque
-Rhesus Macaque
-Blue and gold Macaw
-Blue and yellow Macaw
-Green-winged Macaw
-Red and blue Macaw
-Scarlet Macaw
-Madagascar fruit bat
-Madagascar hawk owl
-Magellanic penguin
-Magistrate black colobus
-Magnificent frigate bird
-Australian Magpie
-Black-backed Magpie
-Malabar squirrel
-Malachite kingfisher
-His madagascariensis
-Malay squirrel
+Javan Gold-spotted Mongoose
+Javanese Cormorant
+Jungle Cat
+Jungle Kangaroo
+Kaffir Cat
+Kafue Flats Lechwe
+Kalahari Scrub Robin
+Kelp Gull
+Killer Whale
+King Cormorant
+King Vulture
+Kinkajou
+Kirk Dik's Dik
+Kirk's Dik Dik
+Klipspringer
+Knob-nosed Goose
+Koala
+Komodo Dragon
+Kongoni
+Kori Bustard
+Land Iguana
+Lappet-faced Vulture
+Lapwing
+Large Cormorant
+Large-eared Bushbaby
+Laughing Kookaburra
+Lava Gull
+Leadbeateri Hornbill's Ground
+Leadbeateri's Ground Hornbill
+Least Chipmunk
+Legaan,
+Leopard
+Lesser Double-collared Sunbird
+Lesser Flamingo
+Lesser Masked Weaver
+Lesser Mouse Lemur
+Levaillant's Barbet
+Lilac-breasted Roller
+Little Blue Penguin
+Little Brown Bat
+Little Cormorant
+Little Grebe
+Little Heron
+Lizard
+Llama
+Long-billed Cockatoo
+Long-billed Corella
+Long-crested Hawk Eagle
+Long-finned Pilot Whale
+Long-necked Turtle
+Long-nosed Bandicoot
+Long-tailed Jaeger
+Long-tailed Skua
+Long-tailed Spotted Cat
+Long-tailed Spotted CatLeopardus Weidi
+Madagascar Fruit Bat
+Madagascar Hawk Owl
+Magellanic Penguin
+Magistrate Black Colobus
+Magnificent Frigate Bird
+Malabar Squirrel
+Malachite Kingfisher
+Malay Squirrel
 Mallard
 Malleefowl
 Manatee
-Mandras tree shrew
+Mandras Tree Shrew
 Mara
-Tilos crumeniferus
 Margay
-Marine iguana
-Hoary Marmot
-Yellow-bellied Marmot
-Brown and yellow Marshbird
-American Marten
-Masked booby
+Marine Iguana
+Masked Booby
 Meerkat
-Red Meerkat
-Mexican beaded lizard
-Mexican boa
-Mexican wolf
-Miner's cat
-Mississippi alligator
-Water Moccasin
-Mocking cliffchat
-Galapagos Mockingbird
-Banded Mongoose
-Eastern dwarf Mongoose
-Javan gold-spotted Mongoose
-Small indian Mongoose
-Yellow Mongoose
-Monitor lizard
-Two-banded Monitor
-Water Monitor
-White-throated Monitor
-Black spider Monkey
-Bleeding heart Monkey
-Red howler Monkey
-Rhesus Monkey
-Vervet Monkey
-Gila Monster
-Purple Moorhen
+Mexican Beaded Lizard
+Mexican Boa
+Mexican Wolf
+Miner Cat's
+Miner's Cat
+Mississippi Alligator
+Mocking Cliffchat
+Monitor Lizard
 Moose
 Mouflon
-Mountain duck
-Mountain goat
-Mountain lion
-Elia decipiens
-Four-striped grass Mouse
+Mountain Duck
+Mountain Goat
+Mountain Lion
 Mudskipper
-Mule deer
-Musk ox
-Common Mynah
-Indian Mynah
-Native cat
-Nelson ground squirrel
-Neotropic cormorant
-Netted rock dragon
-Common Nighthawk
-Nile crocodile
+Mule Deer
+Musk Ox
+Native Cat
+Nelson Ground Squirrel
+Neotropic Cormorant
+Netted Rock Dragon
+Nile Crocodile
 Nilgai
-Nine-banded armadillo
+Nine-banded Armadillo
 North
-North
-North
-North
-Northern elephant seal
-Northern fur seal
-Northern phalarope
-Nubian bee-eater
+North American Porcupine
+North American Red Fox
+North American River Otter
+Northern Elephant Seal
+Northern Fur Seal
+Northern Phalarope
+Nubian Bee-eater
 Numbat
-Clark Nutcracker's
-Red-breasted Nuthatch
 Nyala
 Ocelot
-Old world fruit bat
-Olive baboon
+Old World Fruit Bat
+Olive Baboon
 Onager
-Openbill stork
-Asian Openbill
-American virginia Opossum
+Openbill
+Openbill Stork
 Orca
 Oribi
-Oriental short-clawed otter
-Oriental white-backed vulture
-Ornate rock dragon
-Beisa Oryx
-Fringe-eared Oryx
+Oriental Short-clawed Otter
+Oriental White-backed Vulture
+Ornate Rock Dragon
 Osprey
 Ostrich
-African clawless Otter
-Brazilian Otter
-Canadian river Otter
-Cape clawless Otter
-Giant Otter
-North american river Otter
-Oriental short-clawed Otter
-Small-clawed Otter
 Ovenbird
-Australian masked Owl
-Burrowing Owl
-Great horned Owl
-Madagascar hawk Owl
-Snowy Owl
-White-browed Owl
-Musk Ox
-Us ater
 Paca
-Pacific gull
-Paddy heron
-Red-legged Pademelon
-Painted stork
-Pale white-eye
-Pale-throated three-toed sloth
-Pallas's fish eagle
-Palm squirrel
-Pampa gray fox
+Pacific Gull
+Paddy Heron
+Painted Stork
+Pale White-eye
+Pale-throated Three-toed Sloth
+Pallas Eagle's Fish
+Pallas's Fish Eagle
+Palm Squirrel
+Pampa Gray Fox
 Paradoxure
-Rose-ringed Parakeet
-Hawk-headed Parrot
-Coqui Partridge
-Blue Peacock
-Indian Peacock
-Collared Peccary
-White-lipped Peccary
-Australian Pelican
-Brown Pelican
-Eastern white Pelican
-Great white Pelican
-Fairy Penguin
-Galapagos Penguin
-Little blue Penguin
-Magellanic Penguin
-Peregrine falcon
-Grey Phalarope
-Northern Phalarope
-Red Phalarope
-Red-necked Phalarope
-Brush-tailed Phascogale
-Red-tailed Phascogale
-Common Pheasant
-Ring-necked Pheasant
-Indian tree Pie
-Rufous tree Pie
-Pied avocet
-Pied butcher bird
-Pied cormorant
-Pied crow
-Pied kingfisher
-Pig-tailed macaque
-Feral rock Pigeon
-Wood Pigeon
-Pine siskin
-Pine snake
-Pine squirrel
-Bahama Pintail
-White-cheeked Pintail
-Plains zebra
+Peregrine Falcon
+Pied Avocet
+Pied Butcher Bird
+Pied Cormorant
+Pied Crow
+Pied Kingfisher
+Pig-tailed Macaque
+Pine Siskin
+Pine Snake
+Pine Squirrel
+Plains Zebra
 Platypus
-Blacksmith Plover
-Three-banded Plover
-Pocket gopher
-Polar bear
-African Polecat
-African Porcupine
-Crested Porcupine
-Indian Porcupine
-North american Porcupine
-Prehensile-tailed Porcupine
-Tree Porcupine
-Common brushtail Possum
-Golden brush-tailed Possum
-Pygmy Possum
-Ring-tailed Possum
-Western pygmy Possum
+Pocket Gopher
+Polar Bear
 Potoroo
-Prairie falcon
-Praying mantis
-Prehensile-tailed porcupine
+Prairie Falcon
+Praying Mantis
+Prehensile-tailed Porcupine
 Pronghorn
-Horned Puffin
 Puku
 Puma
-South american Puma
-Puna ibis
-Purple grenadier
-Purple moorhen
-Pygmy possum
+Puna Ibis
+Purple Grenadier
+Purple Moorhen
+Pygmy Possum
 Python
-Carpet Python
-Gambel Quail's
-Eastern Quoll
-Spotted-tailed Quoll
-Eastern cottontail Rabbit
-Raccoon dog
-Common Raccoon
-Crab-eating Raccoon
-Racer snake
-American Racer
-Blue Racer
-Radiated tortoise
-Rainbow lory
-Arboral spiny Rat
-Desert kangaroo Rat
-White-faced tree Rat
-Dusky Rattlesnake
-Eastern diamondback Rattlesnake
-Horned Rattlesnake
-Cape Raven
-White-necked Raven
-Red and blue macaw
-Red brocket
-Red deer
-Red hartebeest
-Red howler monkey
-Red kangaroo
-Red lava crab
-Red meerkat
-Red phalarope
-Red sheep
-Red squirrel
-Red-billed buffalo weaver
-Red-billed hornbill
-Red-billed toucan
-Red-billed tropic bird
-Red-breasted cockatoo
-Red-breasted nuthatch
-Red-capped cardinal
-Red-cheeked cordon bleu
-Red-headed woodpecker
-Red-knobbed coot
-Red-legged pademelon
-Red-necked phalarope
-Red-necked wallaby
-Red-shouldered glossy starling
-Red-tailed cockatoo
-Red-tailed hawk
-Red-tailed phascogale
-Red-tailed wambenger
-Red-winged blackbird
-Red-winged hawk
-Bohor Reedbuck
-Reindeer
-Common Rhea
-Gray Rhea
-Greater Rhea
-Rhesus macaque
-Rhesus monkey
-Black Rhinoceros
-Square-lipped Rhinoceros
-White Rhinoceros
-Richardson's ground squirrel
-Ring dove
-Ring-necked pheasant
-Ring-tailed coatimundi
-Ring-tailed gecko
-Ring-tailed lemur
-Ring-tailed possum
-Ringtail
-Ringtail cat
-Common Ringtail
-River wallaby
-Greater Roadrunner
-Roan antelope
-Kalahari scrub Robin
-White-throated Robin
-Rock dove
-Roe deer
-Lilac-breasted Roller
-Rose-ringed parakeet
-Roseat flamingo
-Roseate cockatoo
-Royal tern
-Rufous tree pie
-Rufous-collared sparrow
-Russian dragonfly
-Sable antelope
-Sacred ibis
-Saddle-billed stork
-Sage grouse
-Sage hen
-Sally lightfoot crab
-Salmon pink bird eater tarantula
-Sockeye Salmon
-Sambar
-Yellow-throated Sandgrouse
-Sandhill crane
-Spotted wood Sandpiper
-Sarus crane
-Savanna baboon
-Savanna fox
-Savannah deer
-Savannah deer
-Scaly-breasted lorikeet
-Scarlet macaw
-Scottish highland cow
-Crested Screamer
-Southern Screamer
-Sea birds
-Common Seal
-Harbor Seal
-Northern elephant Seal
-Northern fur Seal
-Southern elephant Seal
-Secretary bird
-Serval
-Seven-banded armadillo
-Blue Shark
-Snowy Sheathbill
-American bighorn Sheep
-Red Sheep
-Stone Sheep
-Common Shelduck
-European Shelduck
-Short-beaked echidna
-Short-nosed bandicoot
-Mandras tree Shrew
-Common boubou Shrike
-Crimson-breasted Shrike
-Southern white-crowned Shrike
-Sidewinder
-Verreaux Sifaka's
-Silver gull
-Silver-backed fox
-Silver-backed jackal
-Pine Siskin
-Yellow-rumped Siskin
-Four-spotted Skimmer
-African Skink
-Blue-tongued Skink
-Great Skua
-Long-tailed Skua
-Striped Skunk
-Western spotted Skunk
-Slender loris
-Slender-billed cockatoo
-Sloth bear
-Hoffman Sloth's
-Pale-throated three-toed Sloth
-Two-toed Sloth
-Two-toed tree Sloth
-Small
-Small-clawed otter
-Small-spotted genet
-Small-toothed palm civet
-Smith's bush squirrel
-Snake
-Buttermilk Snake
-Carpet Snake
-Eastern indigo Snake
-Green vine Snake
+Raccoon Dog
 Racer Snake
-Tiger Snake
-Western patch-nosed Snake
-Snake-necked turtle
-Snow goose
-Snowy egret
-Snowy owl
-Snowy sheathbill
-Sociable weaver
-Sockeye salmon
-South
-South
-SouthFelis concolor
-SouthOtaria flavescens
-Southern black-backed gull
-Southern boubou
-Southern brown bandicoot
-Southern elephant seal
-Southern ground hornbill
-Southern hairy-nosed wombat
-Southern lapwing
-Southern right whale
-Southern screamer
-Southern sea lion
-Southern tamandua
-Southern white-crowned shrike
-House Sparrow
+Radiated Tortoise
+Rainbow Lory
+Red And Blue Macaw
+Red Brocket
+Red Deer
+Red Fox
+Red Hartebeest
+Red Howler Monkey
+Red Kangaroo
+Red Lava Crab
+Red Meerkat
+Red Phalarope
+Red Sheep
+Red Squirrel
+Red-billed Buffalo Weaver
+Red-billed Hornbill
+Red-billed Toucan
+Red-billed Tropic Bird
+Red-breasted Cockatoo
+Red-breasted Nuthatch
+Red-capped Cardinal
+Red-cheeked Cordon Bleu
+Red-headed Woodpecker
+Red-knobbed Coot
+Red-legged Pademelon
+Red-necked Phalarope
+Red-necked Wallaby
+Red-shouldered Glossy Starling
+Red-tailed Cockatoo
+Red-tailed Hawk
+Red-tailed Phascogale
+Red-tailed Wambenger
+Red-winged Blackbird
+Red-winged Hawk
+Reindeer
+Rhesus Macaque
+Rhesus Monkey
+Richardson Squirrel's Ground
+Richardson's Ground Squirrel
+Ring Dove
+Ring-necked Pheasant
+Ring-tailed Coatimundi
+Ring-tailed Gecko
+Ring-tailed Lemur
+Ring-tailed Possum
+Ringtail
+Ringtail Cat
+River Wallaby
+Roan Antelope
+Rock Dove
+Roe Deer
+Rose-ringed Parakeet
+Roseat Flamingo
+Roseate Cockatoo
+Royal Tern
+Rufous Tree Pie
 Rufous-collared Sparrow
-Spectacled caiman
-Wolf Spider
-European Spoonbill
-White Spoonbill
-Sportive lemur
-Spotted deer
-Spotted hyena
-Spotted wood sandpiper
-Spotted-tailed quoll
+Russian Dragonfly
+Sable Antelope
+Sacred Ibis
+Saddle-billed Stork
+Sage Grouse
+Sage Hen
+Sally Lightfoot Crab
+Salmon Pink Bird Eater Tarantula
+Sambar
+Sandhill Crane
+Sarus Crane
+Savanna Baboon
+Savanna Fox
+Savannah Deer
+Scaly-breasted Lorikeet
+Scarlet Macaw
+Scottish Highland Cow
+Sea Birds
+Secretary Bird
+Serval
+Seven-banded Armadillo
+Short-beaked Echidna
+Short-nosed Bandicoot
+Sidewinder
+Silver Gull
+Silver-backed Fox
+Silver-backed Jackal
+Slender Loris
+Slender-billed Cockatoo
+Sloth Bear
+Small
+Small Indian Mongoose
+Small-clawed Otter
+Small-spotted Genet
+Small-toothed Palm Civet
+Smith Squirrel's Bush
+Smith's Bush Squirrel
+Snake
+Snake-necked Turtle
+Snow Goose
+Snowy Egret
+Snowy Owl
+Snowy Sheathbill
+Sociable Weaver
+Sockeye Salmon
+South
+South African Hedgehog
+South American Puma
+South American Sea Lion
+SouthFelis Concolor
+SouthOtaria Flavescens
+Southern Black-backed Gull
+Southern Boubou
+Southern Brown Bandicoot
+Southern Elephant Seal
+Southern Ground Hornbill
+Southern Hairy-nosed Wombat
+Southern Lapwing
+Southern Right Whale
+Southern Screamer
+Southern Sea Lion
+Southern Tamandua
+Southern White-crowned Shrike
+Spectacled Caiman
+Sportive Lemur
+Spotted Deer
+Spotted Hyena
+Spotted Wood Sandpiper
+Spotted-tailed Quoll
 Springbok
 Springbuck
 Springhare
-Terus gambensis
-Yellow-necked Spurfowl
-Square-lipped rhinoceros
-Squirrel glider
-African bush Squirrel
-Antelope ground Squirrel
-Arctic ground Squirrel
-Eastern fox Squirrel
-Eurasian red Squirrel
-European red Squirrel
-Golden-mantled ground Squirrel
-Grey-footed Squirrel
-Indian giant Squirrel
-Malabar Squirrel
-Nelson ground Squirrel
-Palm Squirrel
-Pine Squirrel
-Red Squirrel
-Richardson Squirrel's ground
-Smith Squirrel's bush
-Thirteen-lined Squirrel
-Uinta ground Squirrel
-Stanley bustard
-Stanley crane
-Crown of thorns Starfish
-Cape Starling
-Greater blue-eared Starling
-Red-shouldered glossy Starling
-Superb Starling
+Square-lipped Rhinoceros
+Squirrel Glider
+Stanley Bustard
+Stanley Crane
 Steenbok
 Steenbuck
-Ias jubatus
-Ias jubatus
-Stick insect
-Stone sheep
-Black-necked Stork
-European Stork
-Tilus dubius
-Jabiru Stork
-Tilos crumeniferus
-Openbill Stork
-Painted Stork
-Saddle-billed Stork
-White Stork
-White-necked Stork
-Woolly-necked Stork
-Yellow-billed Stork
-Striated heron
-Striped dolphin
-Striped hyena
-Striped skunk
-Sugar glider
-Sulfur-crested cockatoo
-Sun gazer
-Lesser double-collared Sunbird
-Yellow-brown Sungazer
-Superb starling
+Stick Insect
+Stone Sheep
+Striated Heron
+Striped Dolphin
+Striped Hyena
+Striped Skunk
+Sugar Glider
+Sulfur-crested Cockatoo
+Sun Gazer
+Superb Starling
 Suricate
-Swainson's francolin
+Swainson Francolin's
+Swainson's Francolin
 Swallow
-Swallow-tail gull
-Swamp deer
-Black Swan
-Trumpeter Swan
-Tailless tenrec
-Southern Tamandua
-Tammar wallaby
-Brazilian Tapir
-Tarantula
-Salmon pink bird eater Tarantula
-Tasmanian devil
-Tawny eagle
-Tawny frogmouth
-Tayra
-Hottentot Teal
+Swallow-tail Gull
+Swamp Deer
 Tailless Tenrec
-Arctic Tern
-Royal Tern
-White-winged Tern
-White-winged black Tern
-Thirteen-lined squirrel
-Thomson's gazelle
-Curve-billed Thrasher
-Three-banded plover
-Tiger
-Tiger cat
-Tiger snake
-Timber wolf
-Elegant crested Tinamou
-Toddy cat
-Tokay gecko
-Topi
-Asian foreset Tortoise
-Burmese black mountain Tortoise
-Burmese brown mountain Tortoise
-Desert Tortoise
-Indian star Tortoise
-Radiated Tortoise
-Red-billed Toucan
-White-throated Toucan
-Tree porcupine
-Tropical buckeye butterfly
-Hilornis africanus
-Trumpeter swan
-Dark-winged Trumpeter
-Green-winged Trumpeter
-Tsessebe
-Violet-crested Turaco
-Turkey vulture
-Australian brush Turkey
-Common Turkey
-Wild Turkey
-Turtle
-Eastern box Turtle
-Long-necked Turtle
-Snake-necked Turtle
-Two-banded monitor
-Two-toed sloth
-Two-toed tree sloth
-Tyrant flycatcher
-Uinta ground squirrel
-Urial
-Verreaux's sifaka
-Vervet monkey
-Vicuna
-Vine snake
-Violet-crested turaco
-Violet-eared waxbill
-Egyptian Viper
-Bengal Vulture
-Black Vulture
-Egyptian Vulture
-Griffon Vulture
-King Vulture
-Lappet-faced Vulture
-Oriental white-backed Vulture
-Turkey Vulture
-White-headed Vulture
-White-rumped Vulture
-African pied Wagtail
-Agile Wallaby
-Bennett Wallaby's
-Dama Wallaby
-Euro Wallaby
-Red-necked Wallaby
-River Wallaby
 Tammar Wallaby
-Whip-tailed Wallaby
-Common Wallaroo
-Red-tailed Wambenger
-Elk Wapiti,
-Warthog
-Water legaan
-Water moccasin
-Water monitor
-Common Waterbuck
-Defassa Waterbuck
-Wattled crane
-Waved albatross
-Black-cheeked Waxbill
-Blue Waxbill
-Violet-eared Waxbill
-Chestnut Weaver
-Lesser masked Weaver
-Red-billed buffalo Weaver
-Sociable Weaver
-White-browed sparrow Weaver
-Weeper capuchin
-Western bearded dragon
-Western grey kangaroo
-Western lowland gorilla
-Western palm tanager
-Western patch-nosed snake
-Western pygmy possum
-Western spotted skunk
-Baleen Whale
-Killer Whale
-Long-finned pilot Whale
-Southern right Whale
-Whip-tailed wallaby
-White rhinoceros
-White spoonbill
-White stork
-White-bellied sea eagle
-White-browed owl
-White-browed sparrow weaver
-White-cheeked pintail
-Cape White-eye
-Pale White-eye
-White-faced tree rat
-White-faced whistling duck
-White-fronted bee-eater
-White-fronted capuchin
-White-headed vulture
-White-lipped peccary
-White-mantled colobus
-White-necked raven
-White-necked stork
-White-nosed coatimundi
-White-rumped vulture
-White-tailed deer
-White-tailed jackrabbit
-White-throated kingfisher
-White-throated monitor
-White-throated robin
-White-throated toucan
-White-winged black tern
-White-winged dove
-White-winged tern
-Wild boar
-Wild turkey
-Wild water buffalo
-Blue Wildebeest
-Wolf spider
-Common Wolf
-Mexican Wolf
+Tarantula
+Tasmanian Devil
+Tawny Eagle
+Tawny Frogmouth
+Tayra
+Terus Gambensis
+Thirteen-lined Squirrel
+Thomson Gazelle's
+Thomson's Gazelle
+Three-banded Plover
+Tiger
+Tiger Cat
+Tiger Snake
+Tilos Crumeniferus
+Tilus Dubius
 Timber Wolf
-Common Wombat
-Southern hairy-nosed Wombat
-Wood pigeon
+Toddy Cat
+Tokay Gecko
+Topi
+Tree Porcupine
+Tropical Buckeye Butterfly
+Trumpeter Swan
+Tsessebe
+Turkey Vulture
+Turtle
+Two-banded Monitor
+Two-toed Sloth
+Two-toed Tree Sloth
+Tyrant Flycatcher
+Uinta Ground Squirrel
+Urial
+Us
+Us Ater
+Verreaux Sifaka's
+Verreaux's Sifaka
+Vervet Monkey
+Vicuna
+Vine Snake
+Violet-crested Turaco
+Violet-eared Waxbill
+Warthog
+Water Buffalo
+Water Dragon
+Water Legaan
+Water Moccasin
+Water Monitor
+Wattled Crane
+Waved Albatross
+Weeper Capuchin
+Western Bearded Dragon
+Western Grey Kangaroo
+Western Lowland Gorilla
+Western Palm Tanager
+Western Patch-nosed Snake
+Western Pygmy Possum
+Western Spotted Skunk
+Whip-tailed Wallaby
+White Rhinoceros
+White Spoonbill
+White Stork
+White-bellied Sea Eagle
+White-browed Owl
+White-browed Sparrow Weaver
+White-cheeked Pintail
+White-faced Tree Rat
+White-faced Whistling Duck
+White-fronted Bee-eater
+White-fronted Capuchin
+White-headed Vulture
+White-lipped Peccary
+White-mantled Colobus
+White-necked Raven
+White-necked Stork
+White-nosed Coatimundi
+White-rumped Vulture
+White-tailed Deer
+White-tailed Jackrabbit
+White-throated Kingfisher
+White-throated Monitor
+White-throated Robin
+White-throated Toucan
+White-winged Black Tern
+White-winged Dove
+White-winged Tern
+Wild Ass
+Wild Boar
+Wild Turkey
+Wild Water Buffalo
+Wolf Spider
+Wood Pigeon
 Woodchuck
-American Woodcock
-Downy Woodpecker
-Red-headed Woodpecker
 Woodrat
-Woolly-necked stork
-Worm snake
+Woolly-necked Stork
+Worm Snake
 Woylie
 Yak
-Yellow baboon
-Yellow mongoose
-Yellow-bellied marmot
-Yellow-billed hornbill
-Yellow-billed stork
-Yellow-brown sungazer
-Yellow-crowned night heron
-Yellow-headed caracara
-Yellow-necked spurfowl
-Yellow-rumped siskin
-Yellow-throated sandgrouse
+Yellow Baboon
+Yellow Mongoose
+Yellow-bellied Marmot
+Yellow-billed Hornbill
+Yellow-billed Stork
+Yellow-brown Sungazer
+Yellow-crowned Night Heron
+Yellow-headed Caracara
+Yellow-necked Spurfowl
+Yellow-rumped Siskin
+Yellow-throated Sandgrouse
 Zebra
 Zorilla
 Zorro
